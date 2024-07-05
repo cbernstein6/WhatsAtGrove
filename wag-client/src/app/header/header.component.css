@@ -1,0 +1,11 @@
+header {
+    margin: 1em;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+}
+
