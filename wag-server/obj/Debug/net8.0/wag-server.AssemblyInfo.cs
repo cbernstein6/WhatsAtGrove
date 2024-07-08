@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("wag-server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2bc468df73047e6b9583dce03d850a4ba7685cf1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+308dcc495c1835b6c966abe7be99608a6cad86fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("wag-server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("wag-server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
